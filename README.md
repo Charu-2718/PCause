@@ -4,7 +4,7 @@ PCause is an innovative project aimed at revolutionizing the diagnosis of Polycy
 
 ## Motivation
 
-The motivation behind PCause stems from the need to address the challenges associated with the current methods of PCOS diagnosis. Manual assessments and subjective criteria often lead to misdiagnosis or delayed intervention, highlighting the necessity for a standardized and efficient diagnostic approach. By leveraging deep learning and image processing technologies, PCause seeks to fill this gap by providing a reliable and automated solution for PCOS detection.
+The motivation behind PCause stems from the need to address the challenges associated with the current methods of PCOS diagnosis. Manual assessments and subjective criteria often lead to misdiagnosis or delayed intervention, highlighting the necessity for a standardized and efficient diagnostic approach. By leveraging deep learning and image processing technologies, PCause seeks to fill this gap by providing a reliable and automated solution for PCOS detection
 
 ## Problem Statement
 
